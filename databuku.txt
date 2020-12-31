@@ -1,0 +1,2 @@
+M01|Agus|Pemograman Python|2020-12-31|2021-01-07
+M02|Budi|Pemograman Pascal|2020-12-31|2021-01-07
